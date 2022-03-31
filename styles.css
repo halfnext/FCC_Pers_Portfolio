@@ -68,6 +68,7 @@ a {
 .project-title-text {
     color: #000;
     margin-block-start: 0px;
+    padding: 2rem 0.5rem;
 }
 
 .project_links {
